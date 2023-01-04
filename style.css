@@ -82,7 +82,7 @@ margin-bottom: 50px;
    
     nav h1{
 font-size: 30px;
-padding: 20px;
+padding: 10px;
     }
     .container{
         display: grid;
@@ -96,7 +96,7 @@ padding: 20px;
     }
     .game-info{
         
-        margin: 30px 10px;
+        margin: 20px 10px;
         display: flex;
         flex-direction: column;
 
@@ -120,8 +120,8 @@ padding: 20px;
         font-size: 35px;
     }
     #reset{
-        height: 50px;
-        width: 130px;
+        height: 40px;
+        width: 110px;
     }
   }
   
